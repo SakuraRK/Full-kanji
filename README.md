@@ -14,4 +14,4 @@ It is a Minecraft language with CJK Glyph optimized for the Japanese region. Thi
 ## 貯藏所紹介（<ruby>朝<rp>(</rp><rt>조</rt><rp>)></rp>鮮<rp>(</rp><rt>선</rt><rp>)</rp>語<rp>(</rp><rt>어</rt><rp>)></rp>南<rp>(</rp><rt>남</rt><rp>)></rp>韓<rp>(</rp><rt>한</rt><rp>)></rp>方<rp>(</rp><rt>방</rt><rp>)></rp>言<rp>(</rp><rt>언</rt><rp>)></rp></ruby>）
 이 貯藏所에는 日本 플레이어를 위해 **Unifont JP** 基盤 韓中日 글꼴 變形 最適化를 提供하는 데 使用된 제 個人 서버의 리소스 팩이 貯藏 되어 있습니다. 
 그리고 **1.20.5** 의 스냅샷 **24w06a** 에서 **Mojang** 은 게임에 **韓中日글꼴變形** 옵션을 追加 했고, 리소스 팩은 마지막 歷史的任務를 完遂했습니다.</br>
-**"漢字路"가 提供하는 中國語 朝鮮文 變換 德分입니다.**
+**（“漢字路”가 提供하는 中國語 朝鮮文 變換 德分입니다.）**
