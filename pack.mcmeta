@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": "Fix Unicode"
+	},
+  "language": {
+    "ja_han": {
+      "name": "全漢字",
+      "region": "日本",
+      "bidirectional": false
+    }
+  }
+}
