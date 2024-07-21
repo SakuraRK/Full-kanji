@@ -1,3 +1,7 @@
+
+![full-kanji](https://github.com/user-attachments/assets/7d3e5619-98eb-47b7-be56-050603f142b6)
+![Full-Kanji_1](https://github.com/user-attachments/assets/171ff3e0-e50c-41dc-ab14-a99aa11c4fe1)
+
 # Full-kanji/<ruby>全<rp>(</rp><rt>ぜん/すべ</rt><rp>)</rp>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>/全汉字（全漢字）
 ## English/International repository intro...
 It is a Minecraft language with CJK Glyph optimized for the Japanese region. This repository is used to archive and l10n a resourcepack from my server.</br>
