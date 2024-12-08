@@ -24,4 +24,10 @@ It is a Minecraft language with CJK Glyph optimized for the Japanese region. Thi
 **（“漢字路”가 提供하는 中國語 朝鮮文 變換 德分입니다.）**
 ** 이 著作物 은 크리에이티브 커먼즈 著作者標示-非營利-同一條件變更許諾 4.0 國際 協約 에 따라 라이선스가 附與 됩니다. **
 
+## 「漢字之力」一諸／緒貢献欲！？私／我々之「Crowdin」頁御覧戴！
+### **👇詳細御覧、此方👇**
+<a title="Crowdin" target="_blank" href="https://crowdin.com/project/minecraft-full-kanji"><img src="https://badges.crowdin.net/minecraft-full-kanji/localized.svg"></a> <br>
 <p xmlns：cc=“http://creativecommons.org/ns#” xmlns：dct=“http://purl.org/dc/terms/”><span property=“dct：title”>Minecraft language-pack Full-Kanji</span> by <a rel=“cc：attributionURL dct：creator” property=“cc：attributionName” href=“https://space.bilibili.com/35141509”>Sakura12546</a> </br> 根据 <a href=“https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1” target=“_blank” rel=“license noopener noreferrer” style=”display：inline-block;>知识共享署名-非商业性使用-相同方式共享 4.0 国际<img style=“height：22px！important;margin-left：3px;vertical-align：text-bottom;“ src=”https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1“ alt=”“><img style=”height：22px！important;margin-left：3px;vertical-align：text-bottom;“ src=”https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1“ alt=”“><img style=”height：22px！important;margin-left：3px;vertical-align：text-bottom;“ src=”https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1“ alt=”“><img style=”height：22px！important;margin-left：3px;vertical-align：text-bottom;“ src=”https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1“ alt=”“></a></p>
+
+
+
